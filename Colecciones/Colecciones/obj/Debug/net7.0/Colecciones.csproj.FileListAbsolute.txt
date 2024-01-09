@@ -1,0 +1,14 @@
+/home/alan/CursoC#/Colecciones/Colecciones/bin/Debug/net7.0/Colecciones
+/home/alan/CursoC#/Colecciones/Colecciones/bin/Debug/net7.0/Colecciones.deps.json
+/home/alan/CursoC#/Colecciones/Colecciones/bin/Debug/net7.0/Colecciones.runtimeconfig.json
+/home/alan/CursoC#/Colecciones/Colecciones/bin/Debug/net7.0/Colecciones.dll
+/home/alan/CursoC#/Colecciones/Colecciones/bin/Debug/net7.0/Colecciones.pdb
+/home/alan/CursoC#/Colecciones/Colecciones/obj/Debug/net7.0/Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/CursoC#/Colecciones/Colecciones/obj/Debug/net7.0/Colecciones.AssemblyInfoInputs.cache
+/home/alan/CursoC#/Colecciones/Colecciones/obj/Debug/net7.0/Colecciones.AssemblyInfo.cs
+/home/alan/CursoC#/Colecciones/Colecciones/obj/Debug/net7.0/Colecciones.csproj.CoreCompileInputs.cache
+/home/alan/CursoC#/Colecciones/Colecciones/obj/Debug/net7.0/Colecciones.dll
+/home/alan/CursoC#/Colecciones/Colecciones/obj/Debug/net7.0/refint/Colecciones.dll
+/home/alan/CursoC#/Colecciones/Colecciones/obj/Debug/net7.0/Colecciones.pdb
+/home/alan/CursoC#/Colecciones/Colecciones/obj/Debug/net7.0/Colecciones.genruntimeconfig.cache
+/home/alan/CursoC#/Colecciones/Colecciones/obj/Debug/net7.0/ref/Colecciones.dll

@@ -1,0 +1,14 @@
+/home/alan/CursoC#/StreamReader/StreamReader/bin/Debug/net7.0/StreamReader
+/home/alan/CursoC#/StreamReader/StreamReader/bin/Debug/net7.0/StreamReader.deps.json
+/home/alan/CursoC#/StreamReader/StreamReader/bin/Debug/net7.0/StreamReader.runtimeconfig.json
+/home/alan/CursoC#/StreamReader/StreamReader/bin/Debug/net7.0/StreamReader.dll
+/home/alan/CursoC#/StreamReader/StreamReader/bin/Debug/net7.0/StreamReader.pdb
+/home/alan/CursoC#/StreamReader/StreamReader/obj/Debug/net7.0/StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/CursoC#/StreamReader/StreamReader/obj/Debug/net7.0/StreamReader.AssemblyInfoInputs.cache
+/home/alan/CursoC#/StreamReader/StreamReader/obj/Debug/net7.0/StreamReader.AssemblyInfo.cs
+/home/alan/CursoC#/StreamReader/StreamReader/obj/Debug/net7.0/StreamReader.csproj.CoreCompileInputs.cache
+/home/alan/CursoC#/StreamReader/StreamReader/obj/Debug/net7.0/StreamReader.dll
+/home/alan/CursoC#/StreamReader/StreamReader/obj/Debug/net7.0/refint/StreamReader.dll
+/home/alan/CursoC#/StreamReader/StreamReader/obj/Debug/net7.0/StreamReader.pdb
+/home/alan/CursoC#/StreamReader/StreamReader/obj/Debug/net7.0/StreamReader.genruntimeconfig.cache
+/home/alan/CursoC#/StreamReader/StreamReader/obj/Debug/net7.0/ref/StreamReader.dll

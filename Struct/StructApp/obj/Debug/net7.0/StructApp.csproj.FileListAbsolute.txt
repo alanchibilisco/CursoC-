@@ -1,0 +1,14 @@
+/home/alan/CursoC#/Struct/StructApp/bin/Debug/net7.0/StructApp
+/home/alan/CursoC#/Struct/StructApp/bin/Debug/net7.0/StructApp.deps.json
+/home/alan/CursoC#/Struct/StructApp/bin/Debug/net7.0/StructApp.runtimeconfig.json
+/home/alan/CursoC#/Struct/StructApp/bin/Debug/net7.0/StructApp.dll
+/home/alan/CursoC#/Struct/StructApp/bin/Debug/net7.0/StructApp.pdb
+/home/alan/CursoC#/Struct/StructApp/obj/Debug/net7.0/StructApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/CursoC#/Struct/StructApp/obj/Debug/net7.0/StructApp.AssemblyInfoInputs.cache
+/home/alan/CursoC#/Struct/StructApp/obj/Debug/net7.0/StructApp.AssemblyInfo.cs
+/home/alan/CursoC#/Struct/StructApp/obj/Debug/net7.0/StructApp.csproj.CoreCompileInputs.cache
+/home/alan/CursoC#/Struct/StructApp/obj/Debug/net7.0/StructApp.dll
+/home/alan/CursoC#/Struct/StructApp/obj/Debug/net7.0/refint/StructApp.dll
+/home/alan/CursoC#/Struct/StructApp/obj/Debug/net7.0/StructApp.pdb
+/home/alan/CursoC#/Struct/StructApp/obj/Debug/net7.0/StructApp.genruntimeconfig.cache
+/home/alan/CursoC#/Struct/StructApp/obj/Debug/net7.0/ref/StructApp.dll

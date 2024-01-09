@@ -1,0 +1,14 @@
+/home/alan/CursoC#/Genericos/Genericos/bin/Debug/net7.0/Genericos
+/home/alan/CursoC#/Genericos/Genericos/bin/Debug/net7.0/Genericos.deps.json
+/home/alan/CursoC#/Genericos/Genericos/bin/Debug/net7.0/Genericos.runtimeconfig.json
+/home/alan/CursoC#/Genericos/Genericos/bin/Debug/net7.0/Genericos.dll
+/home/alan/CursoC#/Genericos/Genericos/bin/Debug/net7.0/Genericos.pdb
+/home/alan/CursoC#/Genericos/Genericos/obj/Debug/net7.0/Genericos.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/CursoC#/Genericos/Genericos/obj/Debug/net7.0/Genericos.AssemblyInfoInputs.cache
+/home/alan/CursoC#/Genericos/Genericos/obj/Debug/net7.0/Genericos.AssemblyInfo.cs
+/home/alan/CursoC#/Genericos/Genericos/obj/Debug/net7.0/Genericos.csproj.CoreCompileInputs.cache
+/home/alan/CursoC#/Genericos/Genericos/obj/Debug/net7.0/Genericos.dll
+/home/alan/CursoC#/Genericos/Genericos/obj/Debug/net7.0/refint/Genericos.dll
+/home/alan/CursoC#/Genericos/Genericos/obj/Debug/net7.0/Genericos.pdb
+/home/alan/CursoC#/Genericos/Genericos/obj/Debug/net7.0/Genericos.genruntimeconfig.cache
+/home/alan/CursoC#/Genericos/Genericos/obj/Debug/net7.0/ref/Genericos.dll

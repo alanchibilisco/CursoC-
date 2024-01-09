@@ -1,0 +1,14 @@
+/home/alan/CursoC#/Delegados/Delegados/bin/Debug/net7.0/Delegados
+/home/alan/CursoC#/Delegados/Delegados/bin/Debug/net7.0/Delegados.deps.json
+/home/alan/CursoC#/Delegados/Delegados/bin/Debug/net7.0/Delegados.runtimeconfig.json
+/home/alan/CursoC#/Delegados/Delegados/bin/Debug/net7.0/Delegados.dll
+/home/alan/CursoC#/Delegados/Delegados/bin/Debug/net7.0/Delegados.pdb
+/home/alan/CursoC#/Delegados/Delegados/obj/Debug/net7.0/Delegados.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/CursoC#/Delegados/Delegados/obj/Debug/net7.0/Delegados.AssemblyInfoInputs.cache
+/home/alan/CursoC#/Delegados/Delegados/obj/Debug/net7.0/Delegados.AssemblyInfo.cs
+/home/alan/CursoC#/Delegados/Delegados/obj/Debug/net7.0/Delegados.csproj.CoreCompileInputs.cache
+/home/alan/CursoC#/Delegados/Delegados/obj/Debug/net7.0/Delegados.dll
+/home/alan/CursoC#/Delegados/Delegados/obj/Debug/net7.0/refint/Delegados.dll
+/home/alan/CursoC#/Delegados/Delegados/obj/Debug/net7.0/Delegados.pdb
+/home/alan/CursoC#/Delegados/Delegados/obj/Debug/net7.0/Delegados.genruntimeconfig.cache
+/home/alan/CursoC#/Delegados/Delegados/obj/Debug/net7.0/ref/Delegados.dll

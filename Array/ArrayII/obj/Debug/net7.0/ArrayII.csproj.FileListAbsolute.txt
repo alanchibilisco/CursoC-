@@ -1,0 +1,14 @@
+/home/alan/CursoC#/Array/ArrayII/obj/Debug/net7.0/ArrayII.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/CursoC#/Array/ArrayII/obj/Debug/net7.0/ArrayII.AssemblyInfoInputs.cache
+/home/alan/CursoC#/Array/ArrayII/obj/Debug/net7.0/ArrayII.AssemblyInfo.cs
+/home/alan/CursoC#/Array/ArrayII/obj/Debug/net7.0/ArrayII.csproj.CoreCompileInputs.cache
+/home/alan/CursoC#/Array/ArrayII/bin/Debug/net7.0/ArrayII
+/home/alan/CursoC#/Array/ArrayII/bin/Debug/net7.0/ArrayII.deps.json
+/home/alan/CursoC#/Array/ArrayII/bin/Debug/net7.0/ArrayII.runtimeconfig.json
+/home/alan/CursoC#/Array/ArrayII/bin/Debug/net7.0/ArrayII.dll
+/home/alan/CursoC#/Array/ArrayII/bin/Debug/net7.0/ArrayII.pdb
+/home/alan/CursoC#/Array/ArrayII/obj/Debug/net7.0/ArrayII.dll
+/home/alan/CursoC#/Array/ArrayII/obj/Debug/net7.0/refint/ArrayII.dll
+/home/alan/CursoC#/Array/ArrayII/obj/Debug/net7.0/ArrayII.pdb
+/home/alan/CursoC#/Array/ArrayII/obj/Debug/net7.0/ArrayII.genruntimeconfig.cache
+/home/alan/CursoC#/Array/ArrayII/obj/Debug/net7.0/ref/ArrayII.dll

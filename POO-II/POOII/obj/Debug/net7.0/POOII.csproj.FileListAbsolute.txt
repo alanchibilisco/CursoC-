@@ -1,0 +1,14 @@
+/home/alan/CursoC#/POO-II/POOII/bin/Debug/net7.0/POOII
+/home/alan/CursoC#/POO-II/POOII/bin/Debug/net7.0/POOII.deps.json
+/home/alan/CursoC#/POO-II/POOII/bin/Debug/net7.0/POOII.runtimeconfig.json
+/home/alan/CursoC#/POO-II/POOII/bin/Debug/net7.0/POOII.dll
+/home/alan/CursoC#/POO-II/POOII/bin/Debug/net7.0/POOII.pdb
+/home/alan/CursoC#/POO-II/POOII/obj/Debug/net7.0/POOII.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/CursoC#/POO-II/POOII/obj/Debug/net7.0/POOII.AssemblyInfoInputs.cache
+/home/alan/CursoC#/POO-II/POOII/obj/Debug/net7.0/POOII.AssemblyInfo.cs
+/home/alan/CursoC#/POO-II/POOII/obj/Debug/net7.0/POOII.csproj.CoreCompileInputs.cache
+/home/alan/CursoC#/POO-II/POOII/obj/Debug/net7.0/POOII.dll
+/home/alan/CursoC#/POO-II/POOII/obj/Debug/net7.0/refint/POOII.dll
+/home/alan/CursoC#/POO-II/POOII/obj/Debug/net7.0/POOII.pdb
+/home/alan/CursoC#/POO-II/POOII/obj/Debug/net7.0/POOII.genruntimeconfig.cache
+/home/alan/CursoC#/POO-II/POOII/obj/Debug/net7.0/ref/POOII.dll

@@ -1,0 +1,12 @@
+git@github.com:DrinkaOrg/facade_ms.git
+git@github.com:DrinkaOrg/accounts_ms.git
+git@github.com:DrinkaOrg/config_ms.git
+git@github.com:DrinkaOrg/services_ms.git
+git@github.com:DrinkaOrg/service_config_ms.git
+git@github.com:DrinkaOrg/notifications_ms.git
+git@github.com:DrinkaOrg/mails_ms.git
+git@github.com:DrinkaOrg/customer_ms.git
+git@github.com:DrinkaOrg/company_clients_ms.git
+git@github.com:DrinkaOrg/company_ms.git
+git@github.com:DrinkaOrg/provider_ms.git
+git@github.com:DrinkaOrg/agent_ms.git

@@ -1,0 +1,14 @@
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/bin/Debug/net7.0/LanzExcepciones
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/bin/Debug/net7.0/LanzExcepciones.deps.json
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/bin/Debug/net7.0/LanzExcepciones.runtimeconfig.json
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/bin/Debug/net7.0/LanzExcepciones.dll
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/bin/Debug/net7.0/LanzExcepciones.pdb
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/obj/Debug/net7.0/LanzExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/obj/Debug/net7.0/LanzExcepciones.AssemblyInfoInputs.cache
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/obj/Debug/net7.0/LanzExcepciones.AssemblyInfo.cs
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/obj/Debug/net7.0/LanzExcepciones.csproj.CoreCompileInputs.cache
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/obj/Debug/net7.0/LanzExcepciones.dll
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/obj/Debug/net7.0/refint/LanzExcepciones.dll
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/obj/Debug/net7.0/LanzExcepciones.pdb
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/obj/Debug/net7.0/LanzExcepciones.genruntimeconfig.cache
+/home/alan/CursoC#/LanzExcepciones/LanzExcepciones/obj/Debug/net7.0/ref/LanzExcepciones.dll

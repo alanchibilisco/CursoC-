@@ -1,0 +1,14 @@
+/home/alan/CursoC#/POO-III/Herencia/bin/Debug/net7.0/Herencia
+/home/alan/CursoC#/POO-III/Herencia/bin/Debug/net7.0/Herencia.deps.json
+/home/alan/CursoC#/POO-III/Herencia/bin/Debug/net7.0/Herencia.runtimeconfig.json
+/home/alan/CursoC#/POO-III/Herencia/bin/Debug/net7.0/Herencia.dll
+/home/alan/CursoC#/POO-III/Herencia/bin/Debug/net7.0/Herencia.pdb
+/home/alan/CursoC#/POO-III/Herencia/obj/Debug/net7.0/Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/CursoC#/POO-III/Herencia/obj/Debug/net7.0/Herencia.AssemblyInfoInputs.cache
+/home/alan/CursoC#/POO-III/Herencia/obj/Debug/net7.0/Herencia.AssemblyInfo.cs
+/home/alan/CursoC#/POO-III/Herencia/obj/Debug/net7.0/Herencia.csproj.CoreCompileInputs.cache
+/home/alan/CursoC#/POO-III/Herencia/obj/Debug/net7.0/Herencia.dll
+/home/alan/CursoC#/POO-III/Herencia/obj/Debug/net7.0/refint/Herencia.dll
+/home/alan/CursoC#/POO-III/Herencia/obj/Debug/net7.0/Herencia.pdb
+/home/alan/CursoC#/POO-III/Herencia/obj/Debug/net7.0/Herencia.genruntimeconfig.cache
+/home/alan/CursoC#/POO-III/Herencia/obj/Debug/net7.0/ref/Herencia.dll

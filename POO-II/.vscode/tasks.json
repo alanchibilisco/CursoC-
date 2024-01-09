@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "watch POOII",
+			"file": "/home/alan/CursoC#/POO-II/POOII/POOII.csproj",
+			"problemMatcher": [],
+			"label": "dotnet: watch POOII"
+		}
+	]
+}

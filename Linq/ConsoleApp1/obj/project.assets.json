@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alan/CursoC#/PrimeraParte/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/alan/CursoC#/Linq/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/home/alan/CursoC#/PrimeraParte/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/home/alan/CursoC#/Linq/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/home/alan/.nuget/packages/",
-      "outputPath": "/home/alan/CursoC#/PrimeraParte/ConsoleApp1/obj/",
+      "outputPath": "/home/alan/CursoC#/Linq/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alan/.nuget/NuGet/NuGet.Config"

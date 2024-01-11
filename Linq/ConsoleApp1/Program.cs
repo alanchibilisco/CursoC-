@@ -1,4 +1,5 @@
 ﻿using System.Net;
+using MySql.Data.MySqlClient;
 
 namespace ConsoleApp1;
 
@@ -48,7 +49,7 @@ public class Program
         Empleado gaston=new Empleado(empresa2,"Gaston",1250);
 
         System.Console.WriteLine("El empleado {0}, pertenece a la empresa {1}, y posee un salario de {2}", alan.NOMBRE, alan.EMPRESA.NOMBRE, alan.SALARIO);*/
-        ControlEmpresasEmpleados almacenamiento = new ControlEmpresasEmpleados();
+        /*ControlEmpresasEmpleados almacenamiento = new ControlEmpresasEmpleados();
 
         EmpresaSolV101 google = new EmpresaSolV101(1, "Google");
 
@@ -75,7 +76,32 @@ public class Program
 
         System.Console.WriteLine("-------------------------------------------");
 
-        almacenamiento.Test();
+        almacenamiento.Test();*/
+
+        System.Console.WriteLine("Probando conexion a bbdd");
+        string connectString = "Server=127.0.0.1;Port=3306;Database=c_sharp;User ID=alan;Password=alan;SSL Mode=None;";
+        //string connectString="Server=127.0.0.1;Port=3306;Database=c_sharp;User ID=alan;Password=alan;";
+
+        using (MySqlConnection connection = new MySqlConnection(connectString))
+        {
+            try
+            {
+                connection.Open();
+                string dbName = connection.Database;
+
+                System.Console.WriteLine("Conectado a BBDD--> {0}", dbName);
+            }
+            catch (System.Exception e)
+            {
+                System.Console.WriteLine("Error--> {0}", e);
+                System.Console.WriteLine("Cerrando la conexion");
+                connection.Close();
+
+            }
+        };
+
+
+
 
     }
 }

@@ -1,5 +1,6 @@
-﻿using System.Net;
+﻿
 using MySql.Data.MySqlClient;
+
 
 namespace ConsoleApp1;
 
@@ -78,6 +79,8 @@ public class Program
 
         almacenamiento.Test();*/
 
+
+        /* PARA UTILIZAR LE PAQUETE en la carpeta contenedora del proyecto instalar el paquete con dotnet add package MySql.Data */
         System.Console.WriteLine("Probando conexion a bbdd");
         string connectString = "Server=127.0.0.1;Port=3306;Database=c_sharp;User ID=alan;Password=alan;SSL Mode=None;";
         //string connectString="Server=127.0.0.1;Port=3306;Database=c_sharp;User ID=alan;Password=alan;";
@@ -88,7 +91,7 @@ public class Program
             {
                 connection.Open();
                 string dbName = connection.Database;
-
+                
                 System.Console.WriteLine("Conectado a BBDD--> {0}", dbName);
             }
             catch (System.Exception e)
@@ -100,6 +103,10 @@ public class Program
             }
         };
 
+
+        BBDD test=new BBDD();
+
+        test.NewEmpresa("Google");
 
 
 

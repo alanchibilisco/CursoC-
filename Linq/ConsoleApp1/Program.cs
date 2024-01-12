@@ -91,7 +91,7 @@ public class Program
             {
                 connection.Open();
                 string dbName = connection.Database;
-                
+
                 System.Console.WriteLine("Conectado a BBDD--> {0}", dbName);
             }
             catch (System.Exception e)
@@ -104,10 +104,52 @@ public class Program
         };
 
 
-        BBDD test=new BBDD();
+        BBDD repository=new BBDD();
 
-        test.NewEmpresa("Google");
+        //repository.NewEmpresa("Meta");
+        //repository.NewEmpresa("Google");
 
+        /*repository.NewCargo("Gerente");
+        repository.NewCargo("Director");
+        repository.NewCargo("Secretario");*/
+
+        repository.GetEmpresas();
+
+        /*IntoEmpresa(new EmpresaDB{nombre="Meta"});-->Esto arroja el siguiente error:
+        Error--> System.TypeLoadException: Method 'GetServiceProviderHashCode' in type 'ExtensionInfo' from assembly 'MySql.Data.EntityFrameworkCore, Version=8.0.22.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d' does not have an implementation.
+   at MySql.Data.EntityFrameworkCore.Infrastructure.Internal.MySQLOptionsExtension.get_Info()
+   at Microsoft.EntityFrameworkCore.DbContextOptions.GetHashCode()
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd[TArg](TKey key, Func`3 valueFactory, TArg factoryArgument)
+   at Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.GetOrAdd(IDbContextOptions options, Boolean providerRequired)
+   at Microsoft.EntityFrameworkCore.DbContext.get_ContextServices()
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.Microsoft.EntityFrameworkCore.Internal.IDbContextDependencies.get_StateManager()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.EntryWithoutDetectChanges(TEntity entity)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.Add(TEntity entity)
+   at ConsoleApp1.Program.IntoEmpresa(EmpresaDB empresa) in /home/alan/CursoC#/Linq/ConsoleApp1/Program.cs:line 125
+        */
+
+
+
+
+    }
+
+
+    public static void IntoEmpresa(EmpresaDB empresa)
+    {
+        try
+        {
+            using var context = new AppDbContext();
+            context.Empresas.Add(empresa);
+            var row = context.SaveChanges();
+            System.Console.WriteLine("Insert Into--> {0}", row);
+        }
+        catch (System.Exception ex)
+        {
+            System.Console.WriteLine("Error--> {0}", ex);
+
+        }
 
 
     }

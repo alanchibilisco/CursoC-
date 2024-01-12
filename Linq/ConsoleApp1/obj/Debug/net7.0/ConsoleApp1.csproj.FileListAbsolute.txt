@@ -38,3 +38,15 @@
 /home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
 /home/alan/CursoC#/Linq/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
 /home/alan/CursoC#/Linq/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CopyComplete
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/alan/CursoC#/Linq/ConsoleApp1/bin/Debug/net7.0/MySql.Data.EntityFrameworkCore.dll

@@ -80,6 +80,85 @@ public class BBDD
             }
         }
     }
+/*
+using System;
+using MySql.Data.MySqlClient;
 
+class Program
+{
+    static void Main()
+    {
+        string connectionString = "Server=localhost;Database=NombreBaseDeDatos;User=root;Password=TuContraseña;";
+
+        // Ejemplo de operaciones CRUD para la tabla Empresa
+        // Insertar
+        InsertarEmpresa(connectionString, "NombreEmpresa", "DireccionEmpresa");
+
+        // Leer
+        LeerEmpresas(connectionString);
+
+        // Actualizar
+        ActualizarEmpresa(connectionString, 1, "NuevoNombre", "NuevaDireccion");
+
+        // Eliminar
+        EliminarEmpresa(connectionString, 1);
+    }
+
+    static void InsertarEmpresa(string connectionString, string nombre, string direccion)
+    {
+        using MySqlConnection connection = new MySqlConnection(connectionString);
+        connection.Open();
+
+        string query = $"INSERT INTO Empresa (Nombre, Direccion) VALUES ('{nombre}', '{direccion}')";
+
+        using MySqlCommand command = new MySqlCommand(query, connection);
+        command.ExecuteNonQuery();
+
+        Console.WriteLine("Empresa insertada correctamente.");
+    }
+
+    static void LeerEmpresas(string connectionString)
+    {
+        using MySqlConnection connection = new MySqlConnection(connectionString);
+        connection.Open();
+
+        string query = "SELECT * FROM Empresa";
+
+        using MySqlCommand command = new MySqlCommand(query, connection);
+        using MySqlDataReader reader = command.ExecuteReader();
+
+        while (reader.Read())
+        {
+            Console.WriteLine($"ID: {reader["Id"]}, Nombre: {reader["Nombre"]}, Direccion: {reader["Direccion"]}");
+        }
+    }
+
+    static void ActualizarEmpresa(string connectionString, int id, string nuevoNombre, string nuevaDireccion)
+    {
+        using MySqlConnection connection = new MySqlConnection(connectionString);
+        connection.Open();
+
+        string query = $"UPDATE Empresa SET Nombre = '{nuevoNombre}', Direccion = '{nuevaDireccion}' WHERE Id = {id}";
+
+        using MySqlCommand command = new MySqlCommand(query, connection);
+        command.ExecuteNonQuery();
+
+        Console.WriteLine("Empresa actualizada correctamente.");
+    }
+
+    static void EliminarEmpresa(string connectionString, int id)
+    {
+        using MySqlConnection connection = new MySqlConnection(connectionString);
+        connection.Open();
+
+        string query = $"DELETE FROM Empresa WHERE Id = {id}";
+
+        using MySqlCommand command = new MySqlCommand(query, connection);
+        command.ExecuteNonQuery();
+
+        Console.WriteLine("Empresa eliminada correctamente.");
+    }
+}
+*/
     
 }

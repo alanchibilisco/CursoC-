@@ -1,0 +1,14 @@
+/home/alan/CursoC#/Threads/Threads/bin/Debug/net7.0/Threads
+/home/alan/CursoC#/Threads/Threads/bin/Debug/net7.0/Threads.deps.json
+/home/alan/CursoC#/Threads/Threads/bin/Debug/net7.0/Threads.runtimeconfig.json
+/home/alan/CursoC#/Threads/Threads/bin/Debug/net7.0/Threads.dll
+/home/alan/CursoC#/Threads/Threads/bin/Debug/net7.0/Threads.pdb
+/home/alan/CursoC#/Threads/Threads/obj/Debug/net7.0/Threads.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/CursoC#/Threads/Threads/obj/Debug/net7.0/Threads.AssemblyInfoInputs.cache
+/home/alan/CursoC#/Threads/Threads/obj/Debug/net7.0/Threads.AssemblyInfo.cs
+/home/alan/CursoC#/Threads/Threads/obj/Debug/net7.0/Threads.csproj.CoreCompileInputs.cache
+/home/alan/CursoC#/Threads/Threads/obj/Debug/net7.0/Threads.dll
+/home/alan/CursoC#/Threads/Threads/obj/Debug/net7.0/refint/Threads.dll
+/home/alan/CursoC#/Threads/Threads/obj/Debug/net7.0/Threads.pdb
+/home/alan/CursoC#/Threads/Threads/obj/Debug/net7.0/Threads.genruntimeconfig.cache
+/home/alan/CursoC#/Threads/Threads/obj/Debug/net7.0/ref/Threads.dll

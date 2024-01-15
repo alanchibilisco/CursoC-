@@ -12,8 +12,10 @@ public class AppDbContext:DbContext
     {
 
         string connectionString="Server=127.0.0.1;Port=3306;Database=c_sharp;User ID=alan;Password=alan;SSL Mode=None;";
-        MySqlConnection connection=new MySqlConnection(connectionString);
-        optionsBuilder.UseMySQL(connection);
+        //MySqlConnection connection=new MySqlConnection(connectionString);
+        //optionsBuilder.UseMySQL(connection);
+
+        optionsBuilder.UseMySQL(connectionString);
 
     }
 

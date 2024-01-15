@@ -104,7 +104,7 @@ public class Program
         };
 
 
-        BBDD repository=new BBDD();
+        //BBDD repository=new BBDD();
 
         //repository.NewEmpresa("Meta");
         //repository.NewEmpresa("Google");
@@ -113,7 +113,7 @@ public class Program
         repository.NewCargo("Director");
         repository.NewCargo("Secretario");*/
 
-        repository.GetEmpresas();
+        //repository.GetEmpresas();
 
         /*IntoEmpresa(new EmpresaDB{nombre="Meta"});-->Esto arroja el siguiente error:
         Error--> System.TypeLoadException: Method 'GetServiceProviderHashCode' in type 'ExtensionInfo' from assembly 'MySql.Data.EntityFrameworkCore, Version=8.0.22.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d' does not have an implementation.
@@ -132,6 +132,8 @@ public class Program
 
 
 
+
+        Test();
 
     }
 
@@ -152,5 +154,28 @@ public class Program
         }
 
 
+    }
+
+    public static void Test()
+    {
+        try
+        {
+            using (var db = new AppDbContext())
+        {
+            var Empresas = db.Empresas.ToList();
+
+            Empresas.ForEach(empresa =>
+            {
+                System.Console.WriteLine($"Empresa id: {empresa.id}, Nombre: {empresa.nombre}");
+            });
+        }
+            
+        }
+        catch (System.Exception ex)
+        {
+            
+            System.Console.WriteLine("Error--> {0}", ex);
+        }
+        
     }
 }
